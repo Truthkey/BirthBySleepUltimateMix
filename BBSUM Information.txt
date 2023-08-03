@@ -1,0 +1,18 @@
+Birth by Sleep -Ultimate Mix- is an overhaul mod for the PC version of Birth by Sleep.
+The mods contains a lot of changes, but here's a summary:
+
+• Fully rebalanced bosses and enemies.
+• Over 30+ musical tracks orchestrated or improved from original concerts or games.
+• Rebalanced game progression to make better use of previously optional elements.
+• Tweaked game's physics to feel more weighty and responsive.
+• General improvements and nerfs to several commands and command styles.
+• New custom bosses and events added for post-game enjoyment.
+
+
+KNOWN ISSUES:
+
+- The "Continue" feature won't work on new boss battles. Use the "Load Game" option to load back to your previous save point.
+- Recolored Unversed won't drop synthesis items or D-Link level ups.
+
+Mods are offered to revert unversed and the camera.
+Check the installation document for more information.

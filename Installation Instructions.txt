@@ -1,0 +1,14 @@
+INSTALLATION:
+
+- Copy "KINGDOM HEARTS Birth by Sleep FINAL MIX.exe" to your Kingdom Hearts installation folder.
+  For example, the default is "C:\Program Files\Epic Games\KH_1.5_2.5". When asked if you should overwrite, say yes.
+- Drag and drop the "BBSUM.bbspcpatch" file to "KHPCPatchManager.exe" to let the patching of files begin.
+  (If prompted to drag a folder, drag the "en" folder from wherever you installed the game)
+  Wait for the patching to end until it says "Done!". Then you can close it with Enter of closing the window.
+ 
+OPTIONAL:
+ 
+- If you want to use the recolored unversed mod that comes bundled with BBSUM, do the same as above but also apply the "ColoredUnversed.bbspatch".
+  The main reason why you would not want to use it, is because recolored enemies won't drop synthesis items or D-Link level ups, making melding harder.
+- If you use recolored unversed and don't like them. A mod to revert them back to normal is also bundled.
+- If you don't like the camera bundled with the mod, you can revert the camera applying the "RestoreCamera.bbspatch".
